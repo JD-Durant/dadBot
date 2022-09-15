@@ -1,6 +1,6 @@
 import discord
 from discord.ext import commands
-token = ""
+token = "" #Pop your token in here and dadbot is off!
 intents = discord.Intents.all()
 client = commands.Bot(command_prefix = '!', intents=intents)
 words = ["i'm", "i am", "im ", "i;m"]
