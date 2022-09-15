@@ -6,10 +6,6 @@ dadBot.py is the answer!
 
 Incredibly simplistic dad bot that will change nicknames and reply in chat! (with some user proofing)
 
-dadBot was made entirely from discord.py, if you're interested in learning more head to [https://discordpy.readthedocs.io/en/stable/]
+dadBot.py was made entirely from discord.py, if you're interested in learning more head to [https://discordpy.readthedocs.io/en/stable/]
 
-Requirements to make it work [
-Python 3.9.2
-discord.py 1.7.3
-A Discord bot token! ( head to https://discord.com/developers/docs/intro )
-]
+Requirements to make it work [Python 3.9.2, discord.py 1.7.3, A Discord bot token! ( Head over to https://discord.com/developers/docs/intro )]
