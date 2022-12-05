@@ -3,7 +3,7 @@
 
 ### dadBot.py is the answer!
 
-![alt text](https://scontent.flba3-1.fna.fbcdn.net/v/t1.6435-9/33675189_1533165523651488_4254785733757239296_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=fSgJNqaQ0TgAX-CjDiI&_nc_ht=scontent.flba3-1.fna&oh=00_AT_NnboMBKoQ6qVrk_U1Vvn-yTCdMzsDqOzZukzFgQsBqQ&oe=6347B566)
+![alt text](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.lohud.com%2Fstory%2Flife%2Ffood%2F2017%2F06%2F15%2Fgrilling-tips-one-dad-another%2F388988001%2F&psig=AOvVaw3NpAZGInCUeWrBpRZZC3Qh&ust=1670358446874000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCLib_qGo4_sCFQAAAAAdAAAAABAN)
 
 Incredibly simplistic dad bot that will change nicknames and reply in chat! (with some user proofing)
 
